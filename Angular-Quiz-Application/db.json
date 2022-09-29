@@ -1,0 +1,59 @@
+
+  {
+    "questions": [
+    {
+      "id": 1,
+      "Question": "What is the capital of India?",
+      "Option 1": "Beijing",
+      "Option 2": "Delhi",
+      "Option 3": "Europe",
+      "Option 4":"Tokyo"
+    },
+    {
+      
+      "id": 2,
+      "Question": "What is the capital of Japan?",
+      "Option 1": "Beijing",
+      "Option 2": "Delhi",
+      "Option 3": "Europe",
+      "Option 4":"Tokyo"
+    },
+    {
+      
+      "id": 3,
+      "Question": "What is the capital of Australia?",
+      "Option 1": "Beijing",
+      "Option 2": "Delhi",
+      "Option 3": "Canberra",
+      "Option 4":"Tokyo"
+    },
+    {
+    "id": 4,
+    "Question": "What is the capital of Greece?",
+    "Option 1": "Beijing",
+    "Option 2": "Athens",
+    "Option 3": "Europe",
+    "Option 4":"Tokyo"
+    }
+
+  ],
+  "answers": [
+    {
+      "id":1,
+      "Answer":"Delhi"
+    },
+    {
+     "id":2,
+     "Answer":"Tokyo"
+    },
+    {
+      "id":3,
+      "Answer":"Canberra"
+     },
+     {
+      "id":4,
+      "Answer":"Athens"
+     }
+
+  ]
+}
